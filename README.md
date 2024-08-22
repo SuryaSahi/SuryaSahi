@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryasahi" alt="suryasahi" /></a> </p>
 
-- 🔭 I’m currently working on [OtakuOasis Chat App](https://otakuoasis-chat-app.netlify.app/)
+- 🔭 I’m currently working on [JTG Assignment Project]
 
 - 🌱 I’m currently learning **React & Next Js**
 
