@@ -8,7 +8,7 @@
 
 - Visit my portfolio website : https://suryasahi-portfolio-website.netlify.app/
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Realtime Device Tracking System**
 
 - 💬 Ask me about **web development , blockchain , java & public speaking**
 
